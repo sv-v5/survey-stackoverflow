@@ -3,7 +3,16 @@ Explore a survey dataset with python tools
 
 
 ## Requirements
-`pip install pipenv && pipenv install Pipfile.lock`
+`pip install pipenv && pipenv install`
+
+## Data Exploration
+
+### Pandas Profiling
+![Pandas Profile Report](images/pandas-profile-report.jpg)
+
+
+### Seaborn Pair
+add collapsable section and images - pairplot
 
 
 ## Credits
