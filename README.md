@@ -7,8 +7,8 @@ Explore a survey dataset with python tools
 
 ## Data Exploration
 
-### Pandas Profiling
-![Pandas Profile Report](images/pandas-profile-report.jpg)
+### Pandas Profiling Interactive Report
+[![Pandas Profile Report](images/pandas-profile-report.jpg)](https://sv-v5.github.io/survey-stackoverflow/)
 
 
 ### Seaborn Pair
