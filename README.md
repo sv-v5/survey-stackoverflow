@@ -2,18 +2,25 @@
 Explore a survey dataset with python tools
 
 
-## Requirements
+### Requirements
 `pip install pipenv && pipenv install`
 
-## Data Exploration
 
 ### Pandas Profiling Interactive Report
+<details>
+<summary>Click to view</summary>
+
 [![Pandas Profile Report](images/pandas-profile-report.jpg)](https://sv-v5.github.io/survey-stackoverflow/)
+</details>
 
 
-### Seaborn Pair
-add collapsable section and images - pairplot
+### Seaborn Pairplot
+<details>
+<summary>Click to view</summary>
+    
+![Seaborn pairplot](images/pairplot.png)
+</details>
 
 
-## Credits
+### Credits
 The Public 2020 Stack Overflow Developer Survey Results https://insights.stackoverflow.com/survey
