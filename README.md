@@ -7,18 +7,15 @@ Explore a survey dataset with python tools
 
 
 ### Pandas Profiling Interactive Report
-<details>
-<summary>Click to view</summary>
-
+Click to go to interactive report  
 [![Pandas Profile Report](images/pandas-profile-report.jpg)](https://sv-v5.github.io/survey-stackoverflow/)
-</details>
 
 
 ### Seaborn Pairplot
 <details>
-<summary>Click to view</summary>
+<summary>Expand to view</summary>
     
-![Seaborn pairplot](images/pairplot.png)
+![Seaborn pairplot](images/pairplot.jpg)
 </details>
 
 
