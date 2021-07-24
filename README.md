@@ -13,7 +13,7 @@ Click to go to interactive report
 
 ### Seaborn Pairplot
 <details>
-<summary>Expand to view</summary>
+<summary>Expand to view pairplot colored-coded by Hobbyist</summary>
     
 ![Seaborn pairplot](images/pairplot.jpg)
 </details>
